@@ -1,10 +1,10 @@
 module github.com/kallepronk/weheat-cli
 
-go 1.24
+go 1.25.0
 
 require (
 	github.com/kallepronk/weheat-go v0.1.0
-	golang.org/x/oauth2 v0.30.0
+	golang.org/x/oauth2 v0.36.0
 	golang.org/x/term v0.33.0
 )
 
